@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104266116226",
+    "project_id": "qwe21312213123",
+    "storage_bucket": "qwe21312213123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104266116226:android:4c3469857cde1eaa80589b",
+        "android_client_info": {
+          "package_name": "ru.mirea.chirkovia.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGiGq0eu-WqX7MZMLdlp0qDhhqxmRsCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
